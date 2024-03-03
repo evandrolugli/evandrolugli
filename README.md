@@ -1,4 +1,4 @@
 - 👋 Hi, my name is Evandro Lugli
-- 🌱 Currently, I am on an exciting journey to discover more about AI and WebAssembly (wasm)
+- 🌱 I am on an exciting journey to discover more about AI and WebAssembly (wasm)
 - 💞️ Football, Programming, Swimming and Chess
 - 📫 How to reach me: evandro.lugli@gmail.com
